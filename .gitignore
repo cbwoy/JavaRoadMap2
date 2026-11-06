@@ -1,8 +1,16 @@
 ### IntelliJ IDEA ###
+.idea/
+*.iml
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
 .kotlin
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
 
 ### Eclipse ###
 .apt_generated
